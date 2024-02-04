@@ -11,3 +11,11 @@
 -- The user can sign out with the sign out button
 
 -- There is also a validation for if someone secretly tries to sneak into /dashboard without loging from gmail
+
+--Instruction--
+
+--After cloning the repo use the given commands.
+
+cd task
+npm install
+npm run dev
